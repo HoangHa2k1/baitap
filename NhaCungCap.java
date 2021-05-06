@@ -1,7 +1,7 @@
 package Baitap;
 import java.util.Scanner;
 public class NhaCungCap {
-	public static void main(String[] args){
+
 	protected String MaNhaCungCap;
 protected String DiaChi;
 public NhaCungCap() {
